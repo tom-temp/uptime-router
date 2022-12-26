@@ -4,4 +4,4 @@
 1. 添加`uptime.sh`至`cron`定时任务.
 2. 使用`caddy`或者`nginx`将`index.html`设为主页
 
-![](pic/CopyQ.UmbYLM.png)
+![](pic/Snipaste_2022-12-27_01-38-50.png)
